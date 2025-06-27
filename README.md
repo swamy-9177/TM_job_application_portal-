@@ -1,0 +1,1 @@
+This is a full-featured Job Portal application built using ASP.NET. It allows job seekers to register, log in, search for jobs, and apply online. Employers can post job openings, manage listings, and review applications. The project follows a clean architecture and includes authentication, role-based access, and real-time updates for job statuses.
